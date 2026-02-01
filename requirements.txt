@@ -1,0 +1,10 @@
+streamlit>=1.33
+docling>=0.0.0
+modelscope>=1.15.0
+onnxruntime>=1.17.0
+
+gliner>=0.1.8
+torch>=2.2.0
+
+spacy>=3.7.0
+pandas>=2.0.0
