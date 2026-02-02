@@ -29,7 +29,9 @@ Eine lokale Python-Installation ist **nicht erforderlich**, wenn Docker genutzt 
 ### 1. Repository herunterladen
 
 git clone https://github.com/laurawagner-ger/gliner-ubo-ocr-service.git
+
 cd gliner-ubo-ocr-service
+
 
 
 ### 2. Modelle lokal hinzufügen
